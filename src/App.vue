@@ -1,28 +1,70 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div class="container">
+      <TitleBar />
+      <Home />
+      <Footer />
+    </div>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TitleBar from '@/components/TitleBar/TitleBar.vue'
+import Home from '@/components/Home/Home.vue'
+import Footer from '@/components/Footer/Footer.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    TitleBar,
+    Home,
+    Footer
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  #app {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+  }
+
+  html, body{
+    color:#555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height:1.6em;
+    margin:0;
+    height:100%;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  .container{
+    position: relative;
+    min-height: 100vh;
+    background-color: black;
+  }
+
+  @font-face {
+    font-family: "Slabo";
+    src: local("Slabo"),
+    url(./fonts/Slabo/Slabo27px-Regular.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: "Tangerine";
+    src: local("Tangerine"),
+    url(./fonts/Tangerine/Tangerine-Bold.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: "Lato";
+    src: local("Lato"),
+    url(./fonts/OpenSans/OpenSans-Regular.ttf) format("truetype");
+  }
+
 </style>
