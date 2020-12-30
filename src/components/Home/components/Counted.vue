@@ -2,7 +2,7 @@
   <div class="constrain">
 
     <div class="sectionTitle">
-      <p>The counted . . .</p>
+      <p>The counted in 2020 . . .</p>
     </div>
 
     <ul>

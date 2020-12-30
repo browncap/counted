@@ -34,13 +34,11 @@ export default {
 <style scoped>
 
   .headerParagraph p {
-    margin-top: 22px;
-    margin-bottom: 22px;
+    margin: 22px 0px;
   }
 
   .secondaryParagraph p {
-    margin-top: 17px;
-    margin-bottom: 17px;
+    margin: 17px 0px;
   }
 
   .imgContainer ~ .imgContainer {

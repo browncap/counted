@@ -35,8 +35,7 @@ export default {
   .headerParagraph {
     width: 75%;
     margin: auto;
-    padding-top: 0px;
-    padding-bottom: 0px;
+    padding: 0px;
   }
 
   .headerParagraph p {
@@ -50,8 +49,7 @@ export default {
   .secondaryParagraph {
     width: 70%;
     margin: auto;
-    padding-top: 0px;
-    padding-bottom: 0px;
+    padding: 0px;
   }
 
   .secondaryParagraph p {
@@ -61,8 +59,8 @@ export default {
   }
 
   .imgContainer{
-    width:100%;
-    margin:auto;
+    width: 100%;
+    margin: auto;
     overflow: hidden;
   }
 
@@ -70,24 +68,20 @@ export default {
     width: 85%;
     height: 2px;
     background-color: #333;
-    margin: auto;
-    margin-top: 55px;
-    margin-bottom: 55px;
+    margin: 55px auto;
   }
 
   .sectionTitle {
     width: 80%;
     margin: auto;
-    padding-top: 0px;
-    padding-bottom: 50px;
+    padding: 0px 0px 50px 0px;
   }
 
   .sectionTitle p {
     font-family: "Slabo", Arial, Helvetica, sans-serif;
     font-size: 25px;
     color: #8AE9FF;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin: 0px;
     text-align: left;
   }
 
@@ -124,8 +118,7 @@ export default {
       max-width: 540px;
       height: 2px;
       background-color: #333;
-      margin-top: 85px;
-      margin-bottom: 85px;
+      margin: 85px auto;
     }
 
     .sectionTitle {

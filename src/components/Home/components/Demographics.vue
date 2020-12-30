@@ -46,8 +46,7 @@ export default {
 <style scoped>
 
   .headerParagraph p {
-    margin-top: 0px;
-    margin-bottom: 40px;
+    margin: 0px 0px 40px 0px;
   }
 
   .headerParagraph ~ .headerParagraph {

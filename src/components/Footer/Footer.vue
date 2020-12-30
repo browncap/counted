@@ -26,16 +26,14 @@ export default {
   }
 
   #footer span {
-    padding-left: 5px;
-    padding-right: 5px;
+    padding: 0px 5px;
     color: white;
     font-size:20px;
   }
 
   #footer p {
     font-family: "Lato", Arial, Helvetica, sans-serif;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding: 0px 5px;
     color: white;
   }
 

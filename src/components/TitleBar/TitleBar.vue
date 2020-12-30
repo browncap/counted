@@ -1,6 +1,6 @@
 <template>
   <div class="constrain">
-    <div class="imgPContainer">
+    <div class="title">
       <p>Counted</p>
     </div>
   </div>
@@ -14,40 +14,18 @@ export default {
 
 <style scoped>
 
-  .constrain {
-    margin:auto;
-  }
-
-  .imgPContainer{
+  .constrain{
     width: 90%;
-    margin:auto;
   }
 
-  .imgPContainer p {
+  .constrain p {
     font-family: "Tangerine", Arial, Helvetica, sans-serif;
     font-weight: 900;
     color:white;
     font-size: 45px;
-    margin-top: 0px;
-    margin-bottom:25px;
-    padding-top: 25px;
+    margin: 0px 0px 25px 0px;
+    padding: 25px 0px 10px 0px;
     text-align: left;
-    padding-bottom:10px;
   }
-
-  @media(orientation: landscape) and (min-width: 840px) {
-    .articleContainer{
-      width: 740px;
-    }
-
-    .constrain{
-      width: 740px;
-    }
-
-    .imgContainer{
-      width:600px;
-    }
-  }
-
 
 </style>
