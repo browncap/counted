@@ -20,7 +20,6 @@ export default {
 
   .constrain p {
     font-family: "Tangerine", Arial, Helvetica, sans-serif;
-    font-weight: 900;
     color:white;
     font-size: 45px;
     margin: 0px 0px 25px 0px;

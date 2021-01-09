@@ -60,7 +60,10 @@ export default {
         "Jayne Thompson",
         "Penélope Díaz Ramírez",
         "Merci Mack",
-        "Kimberly Fial"
+        "Kimberly Fial",
+        "Jaheim Pugh Jaheim Barbie",
+        "Courtney “Eshay” Key",
+        "Alexandria Winchester"
       ]
     }
   }

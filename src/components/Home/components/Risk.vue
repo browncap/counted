@@ -6,7 +6,7 @@
     </div>
 
     <div class="headerParagraph">
-      <p>While the numbers of murdered trans people each year seem relatively low, they represent an enormous threat to small and vulnerable demographics.</p>
+      <p>While 44 seems like a relatively low number, it represents an enormous percentage of small, vulnerable demographics.</p>
     </div>
 
     <div class="secondaryParagraph">
@@ -14,7 +14,7 @@
     </div>
 
     <div class="secondaryParagraph">
-      <p>In 2020, 6 Latinx trans people were killed in Puerto Rico, 5 of whom were trans women. Puerto Rico has a population of just 3.2 million people.</p>
+      <p>In 2020, at least 6 Latinx trans people were killed in Puerto Rico, 5 of whom were trans women.</p>
     </div>
 
   </div>

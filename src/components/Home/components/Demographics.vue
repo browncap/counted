@@ -6,7 +6,7 @@
     </div>
 
     <div class="headerParagraph">
-      <p>Of the 41 victims in 2020, 33 were people of color...</p>
+      <p>Of the 44 victims in 2020, 36 were people of color...</p>
     </div>
 
     <div class="imgContainer">
@@ -14,7 +14,7 @@
     </div>
 
     <div class="headerParagraph">
-      <p>30 were trans women of color...</p>
+      <p>32 were trans women of color...</p>
     </div>
 
     <div class="imgContainer">
@@ -22,7 +22,7 @@
     </div>
 
     <div class="headerParagraph">
-      <p>and 22 were Black trans women.</p>
+      <p>and 23 were Black trans women.</p>
     </div>
 
     <div class="imgContainer">
@@ -37,7 +37,7 @@ export default {
   name: "Demographics",
   methods: {
     getImgUrl: function(path) {
-      return require("@/assets/" + path);
+      return require("@/assets/images/" + path);
     }
   }
 }

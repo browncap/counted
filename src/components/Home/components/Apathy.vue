@@ -7,7 +7,7 @@
     </div>
 
     <div class="headerParagraph">
-      <p>Today, the FBI homicide database only recognizes the sex of victims, marked as simply "male" or "female," with an additional category for "undefined." </p>
+      <p>Today, the FBI homicide database only recognizes the sex of victims, marked as simply "male" or "female," with an additional category for "unknown." </p>
     </div>
 
     <div class="secondaryParagraph">

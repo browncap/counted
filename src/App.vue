@@ -52,19 +52,19 @@ export default {
   @font-face {
     font-family: "Slabo";
     src: local("Slabo"),
-    url(./fonts/Slabo/Slabo27px-Regular.ttf) format("truetype");
+    url(./assets/fonts/Slabo/Slabo27px-Regular.ttf) format("truetype");
   }
 
   @font-face {
     font-family: "Tangerine";
     src: local("Tangerine"),
-    url(./fonts/Tangerine/Tangerine-Bold.ttf) format("truetype");
+    url(./assets/fonts/Tangerine/Tangerine-Bold.ttf) format("truetype");
   }
 
   @font-face {
     font-family: "Lato";
     src: local("Lato"),
-    url(./fonts/OpenSans/OpenSans-Regular.ttf) format("truetype");
+    url(./assets/fonts/OpenSans/OpenSans-Regular.ttf) format("truetype");
   }
 
 </style>
