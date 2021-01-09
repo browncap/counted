@@ -6,7 +6,7 @@
     </div>
 
     <div class="headerParagraph">
-      <p>While 44 seems like a relatively low number, it represents an enormous percentage of small, vulnerable demographics.</p>
+      <p>While 44 seems like a relatively low number, it represents an enormous threat to small, vulnerable demographics.</p>
     </div>
 
     <div class="secondaryParagraph">
