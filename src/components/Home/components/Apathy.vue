@@ -7,7 +7,7 @@
     </div>
 
     <div class="headerParagraph">
-      <p>Today, the FBI homicide database and countless others do not record the genders or gender identities of victims.</p>
+      <p>Today, the FBI homicide database and countless others do not recognize the genders or gender identities of victims.</p>
     </div>
 
     <div class="secondaryParagraph">
