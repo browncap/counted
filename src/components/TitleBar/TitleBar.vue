@@ -1,7 +1,7 @@
 <template>
   <div class="constrain">
     <div class="title">
-      <p>Counted</p>
+      <p>they count</p>
     </div>
   </div>
 </template>
