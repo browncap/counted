@@ -1,6 +1,6 @@
 <template>
   <footer id="footer">
-    <a href="https://www.elle.com/culture/career-politics/a32839834/black-trans-lgbtq-organizations/"><p>Donate</p></a>
+    <a href="https://www.translivesmatter.xyz"><p>Donate</p></a>
     <span>|</span>
     <p>© Copyright 2020</p>
   </footer>
