@@ -15,7 +15,7 @@
     </div>
 
     <div class="secondaryParagraph">
-      <p>Trans and non-binary people need — deserve — to be counted.</p>
+      <p>Trans and non-binary people deserve to be counted.</p>
     </div>
 
   </div>
