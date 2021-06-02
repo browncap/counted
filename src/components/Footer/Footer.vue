@@ -2,7 +2,7 @@
   <footer id="footer">
     <a href="https://www.translivesmatter.xyz"><p>Donate</p></a>
     <span>|</span>
-    <p>© Copyright 2020</p>
+    <p>© Copyright 2021</p>
   </footer>
 </template>
 
